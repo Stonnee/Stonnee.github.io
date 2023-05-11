@@ -37,8 +37,7 @@
 
         <nav id="navbar" class="navbar">
           <ul>
-            <li><a class="nav-link scrollto active" href="#hero">Acceuil</a></li>
-            <li><a class="nav-link scrollto" href="#about">À propos de moi</a></li>
+            
             <li><a class="nav-link scrollto " href="#work">Projets</a></li>
             <li><a class="nav-link scrollto" href="#services">Services</a></li>
             <li><a class="nav-link scrollto " href="https://www.linkedin.com/in/axel-coyere/">Linkedin</a></li>
