@@ -717,5 +717,3 @@ export default {
 @import '~/vendor/devicons/css/devicons.min.css';
 
 
-@import 'https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css';</style>
-

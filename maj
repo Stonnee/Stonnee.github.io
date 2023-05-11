@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Génère le contenu statique
+npm run generate
+
+# Ajoute le dossier dist
+git add dist
+
+# Valide les changements
+git commit -m "Mettre à jour le contenu généré"
+
+# Pousse les changements vers la branche gh-pages
+git subtree push --prefix dist origin gh-pages
