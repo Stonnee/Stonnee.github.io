@@ -1,0 +1,16 @@
+[
+  {
+    "name": "cv",
+    "path": "/cv",
+    "component": "/home/stonnee/devfolio/pages/cv.vue",
+    "chunkName": "pages/cv",
+    "_name": "_2f1d280e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/stonnee/devfolio/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_25937588"
+  }
+]
