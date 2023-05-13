@@ -174,5 +174,5 @@ export default {
 @import '~/vendor/swiper/swiper-bundle.min.css';
 
 
-@import '~/vendor/devicons/css/devicons.min.css';
+@import '~/vendor/devicons/css/devicon.min.css';
 

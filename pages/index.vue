@@ -37,7 +37,7 @@
 
         <nav id="navbar" class="navbar">
           <ul>
-            
+          
             <li><a class="nav-link scrollto " href="#work">Projets</a></li>
             <li><a class="nav-link scrollto" href="#services">Services</a></li>
             <li><a class="nav-link scrollto " href="https://www.linkedin.com/in/axel-coyere/">Linkedin</a></li>
@@ -713,6 +713,6 @@ export default {
 @import '~/vendor/swiper/swiper-bundle.min.css';
 
 
-@import '~/vendor/devicons/css/devicons.min.css';
 
+@import 'https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css';</style>
 
