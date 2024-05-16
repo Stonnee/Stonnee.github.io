@@ -97,9 +97,7 @@
 
                         <div class="about-img">
                           <span class="d-none d-lg-block">
-                            <img class="img-fluid img-profile rounded-circle mx-auto mb-2"
-                              src="https://media.discordapp.net/attachments/757916336046211102/1134194395613249556/356822610_207212048986176_2914466753818688150_n.jpg?ex=664653d8&is=66450258&hm=944a35216aa550ddf89253b2584e3b3cae89a4c69a2b233dc8c5d5888ffd2e14&=&format=webp?width=478&height=670"
-                              alt="">
+                            okokok
                           </span>
                         </div>
                       </div>
