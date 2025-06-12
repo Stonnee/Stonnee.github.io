@@ -10,4 +10,4 @@ git add dist
 git commit -m "Mettre à jour le contenu généré"
 
 # Pousse les changements vers la branche gh-pages
-git subtree push --prefix dist origin gh-page
+git subtree push --prefix dist origin gh-pages
