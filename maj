@@ -9,5 +9,5 @@ git add dist
 # Valide les changements
 git commit -m "Mettre à jour le contenu généré"
 
-# Pousse les changements vers la branche gh-pages
-git subtree push --prefix dist origin gh-pages
+# Pousse les changements vers la branche par défaut (master)
+git subtree push --prefix dist origin master

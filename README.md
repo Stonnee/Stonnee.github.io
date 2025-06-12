@@ -67,3 +67,15 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+## Deployment on GitHub Pages
+
+This repository is named `Stonnee.github.io`, which means GitHub Pages serves the site from the **default branch**. After running `npm run generate`, commit the contents of `dist/` to that branch so `index.html` is located at the repository root.
+
+The `maj` script automates this process:
+
+```bash
+./maj
+```
+
+It generates the static site and pushes the updated `dist` directory to `master`.
