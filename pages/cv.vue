@@ -1,31 +1,5 @@
 <template>
-  <!DOCTYPE html>
-  <html lang="en">
-
-  <head>
-    <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-    <title>DevFolio Bootstrap Portfolio Template - Index</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
-
-    <!-- Favicons -->
-    <link href="~/assets/images/logo.png" rel="icon">
-    <link href="~/assets/images/logo.png" rel="apple-touch-icon">
-
-
-
-    <!-- =======================================================
-    * Template Name: DevFolio
-    * Updated: Mar 10 2023 with Bootstrap v5.2.3
-    * Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-    * Author: BootstrapMade.com
-    * License: https://bootstrapmade.com/license/
-    ======================================================== -->
-  </head>
-
-  <body>
+  <div>
 
     <!-- ======= Header ======= -->
     <header class="fixed-top headerCv">
@@ -141,9 +115,7 @@
         class="bi bi-arrow-up-short"></i></a>
 
 
-  </body>
-
-  </html>
+</div>
 </template>
 
 <script>
